@@ -1,0 +1,1 @@
+Permissions: -rw-r--r-- for day2_perm.log
