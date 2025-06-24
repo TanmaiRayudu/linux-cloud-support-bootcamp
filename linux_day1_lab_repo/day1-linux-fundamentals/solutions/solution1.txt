@@ -1,0 +1,1 @@
+file1.txt and backup.txt in logs/, with correct paths and structure verified using ls
